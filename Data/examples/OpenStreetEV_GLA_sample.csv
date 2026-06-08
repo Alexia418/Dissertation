@@ -1,0 +1,101 @@
+country_co,party_id,Source,id,external_l,state,country,related_lo,coordinate,coordina_1,parking_ty,opening_ti,charging_w,energy_mix,last_updat,created_at,deleted_at,location_c,location_1
+GB,ID_A3D2DE76,Custom,ID_D2F611DF,ID_DED0844A,Barking and Dagenham,England,,51.55,0.16,,,,,41:17.0,36:28.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_F6239B35,ID_00705014,Barking and Dagenham,England,,51.54,0.13,,,,,41:17.0,03:53.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_2CBB9184,ID_2CBB9184,Barking and Dagenham,England,,51.55,0.11,,,,,41:17.0,44:00.0,,Supermarket,Destination
+GB,ID_A3D2DE76,Custom,ID_BFAE69B0,ID_BFAE69B0,Barking and Dagenham,England,,51.56,0.15,,,,,41:17.0,27:00.0,,Supermarket,Destination
+GB,ID_A3D2DE76,Custom,ID_6FA7D962,ID_9EA02CBC,Barking and Dagenham,England,,51.54,0.15,,,,,41:17.0,02:00.0,,Supermarket,Destination
+GB,ID_A3D2DE76,Custom,ID_689B314C,ID_689B314C,Barking and Dagenham,England,,51.53,0.07,,,,,41:17.0,30:00.0,,Accommodation,Destination
+GB,ID_A3D2DE76,Custom,ID_7EE3212E,ID_7EE3212E,Barking and Dagenham,England,,51.53,0.1,,,,,30:02.0,40:00.0,,Education,Destination
+GB,ID_A3D2DE76,Custom,ID_1DAF331A,ID_3C417EDC,Barking and Dagenham,England,,51.53,0.15,,,,,30:01.0,10:15.0,,Accommodation,Destination
+GB,ID_A3D2DE76,Custom,ID_AAE1B858,ID_AAE1B858,Barking and Dagenham,England,,51.59,0.15,,,,,30:01.0,28:00.0,,Retail Car Park,Destination
+GB,ID_A3D2DE76,Custom,ID_B799432F,ID_3C417EDC,Barking and Dagenham,England,,51.53,0.15,,,,,30:01.0,00:00.0,,Accommodation,Destination
+GB,ID_A3D2DE76,Custom,ID_ECB2EC35,ID_ECB2EC35,Barking and Dagenham,England,,51.56,0.15,,,,,30:01.0,22:00.0,,Education,Destination
+GB,ID_A3D2DE76,Custom,ID_269F1AB9,ID_269F1AB9,Barking and Dagenham,England,,51.57,0.13,,,,,30:01.0,07:00.0,,Retail Car Park,Destination
+GB,ID_A3D2DE76,Custom,ID_E01E387E,ID_E01E387E,Barking and Dagenham,England,,51.53,0.17,,,,,30:01.0,00:00.0,,Education,Destination
+GB,ID_A3D2DE76,Custom,ID_2C919B7F,ID_2C919B7F,Barking and Dagenham,England,,51.54,0.13,,,,,41:17.0,05:00.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_B2DC7C57,ID_B2DC7C57,Barking and Dagenham,England,,51.56,0.16,,,,,30:01.0,25:00.0,,Education,Destination
+GB,ID_0F87BF8E,OCPI,ID_A2B48B0A,ID_A7388207,Barking and Dagenham,England,,51.54,0.17,,"{""twentyfourseven"": true}",False,,30:01.0,07:17.0,,On-Street,On-street
+GB,ID_2505EAEF,OCPI,ID_E3A4F116,ID_E41335E1,Barking and Dagenham,England,,51.54,0.1,,,True,,30:01.0,05:54.0,,On-Street,On-street
+GB,ID_2505EAEF,OCPI,ID_106A382A,ID_EBE33196,Barking and Dagenham,England,,51.54,0.12,,,True,,30:01.0,02:17.0,,On-Street,On-street
+GB,ID_2505EAEF,OCPI,ID_E4364F5E,ID_4932F28B,Barking and Dagenham,England,,51.53,0.11,,,True,,30:01.0,18:10.0,,On-Street,On-street
+GB,ID_2505EAEF,OCPI,ID_F10804CB,ID_2AA5D7C0,Barking and Dagenham,England,,51.53,0.12,,,True,,05:01.0,31:48.0,,On-Street,On-street
+GB,ID_2505EAEF,OCPI,ID_0BE844DB,ID_8C2F6074,Barking and Dagenham,England,,51.54,0.14,,,True,,30:01.0,56:03.0,,On-Street,On-street
+GB,ID_2505EAEF,OCPI,ID_E65DC120,ID_E465B9FE,Barking and Dagenham,England,,51.56,0.15,,,True,,30:01.0,36:00.0,,On-Street,On-street
+GB,ID_2505EAEF,OCPI,ID_31F922EE,ID_5B1D2276,Barking and Dagenham,England,,51.53,0.14,,,True,,30:01.0,13:00.0,,On-Street,On-street
+GB,ID_2505EAEF,OCPI,ID_8A9A7398,ID_F4C0E9F3,Barking and Dagenham,England,,51.54,0.09,,,True,,30:01.0,03:00.0,,On-Street,On-street
+GB,ID_2505EAEF,OCPI,ID_92AA3E76,ID_4032A157,Barking and Dagenham,England,,51.53,0.1,,,True,,30:01.0,26:00.0,,On-Street,On-street
+GB,ID_2505EAEF,OCPI,ID_9D387060,ID_5BFD6E02,Barking and Dagenham,England,,51.57,0.14,,,True,,30:01.0,56:50.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_D8040DAA,ID_18C0DBAD,Barking and Dagenham,England,,51.55,0.15,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,51:21.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_A6EDB23F,ID_D06B693B,Barking and Dagenham,England,,51.53,0.09,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,50:49.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_C631AB0D,ID_419FB8CF,Barking and Dagenham,England,,51.54,0.1,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,51:21.0,,Car Park,Destination
+GB,ID_C9C70DBE,OCPI,ID_734963CF,ID_510D4C64,Barking and Dagenham,England,,51.55,0.11,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,51:21.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_A3B0E5EE,ID_CE9B8844,Barking and Dagenham,England,,51.55,0.13,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,51:21.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_B0475FD6,ID_98B476EC,Barking and Dagenham,England,,51.55,0.16,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,05:01.0,50:44.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_FA2E7240,ID_6A70D285,Barking and Dagenham,England,,51.57,0.14,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,51:21.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_7CFD34EA,ID_641FA79B,Barking and Dagenham,England,,51.54,0.08,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,51:21.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_7C0619F3,ID_CECE92D1,Barking and Dagenham,England,,51.54,0.13,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,05:01.0,51:21.0,,Leisure,Destination
+GB,ID_C9C70DBE,OCPI,ID_A1745467,ID_C5AEE1EB,Barking and Dagenham,England,,51.55,0.09,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,50:44.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_E6CFFF74,ID_3D75D04D,Barking and Dagenham,England,,51.57,0.14,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:02.0,50:59.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_34260A6D,ID_55871DD0,Barking and Dagenham,England,,51.57,0.14,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,39:29.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_83678B12,ID_46CEF960,Barking and Dagenham,England,,51.54,0.14,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,39:29.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_05675C20,ID_64565893,Barking and Dagenham,England,,51.54,0.09,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,50:43.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_F3ABF556,ID_24B64456,Barking and Dagenham,England,,51.56,0.15,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,51:21.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_38388A61,ID_C1A6FDB6,Barking and Dagenham,England,,51.54,0.14,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,51:43.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_2EF8B0ED,ID_2FC7FD76,Barking and Dagenham,England,,51.54,0.14,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,43:00.0,32:56.0,,Other,Other
+GB,ID_C9C70DBE,OCPI,ID_731DB5B9,ID_56031827,Barking and Dagenham,England,,51.53,0.14,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,50:44.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_4447A0BD,ID_6DC91AED,Barking and Dagenham,England,,51.54,0.11,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,50:44.0,,Retail Car Park,Destination
+GB,ID_C9C70DBE,OCPI,ID_3623AFE6,ID_4D652116,Barking and Dagenham,England,,51.53,0.12,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,50:43.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_A46A08A2,ID_3E79370F,Barking and Dagenham,England,,51.54,0.14,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,51:21.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_451BC1E9,ID_87566126,Barking and Dagenham,England,,51.54,0.07,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,50:43.0,,On-Street,On-street
+GB,ID_C9C70DBE,OCPI,ID_DACD793C,ID_38ADF651,Barking and Dagenham,England,,51.53,0.11,,"{""regular_hours"": null, ""twentyfourseven"": true, ""exceptional_closings"": null, ""exceptional_openings"": null}",True,,30:01.0,51:43.0,,On-Street,On-street
+GB,ID_0EB12931,OCPI,ID_23C81E36,ID_1EE999DB,Barking and Dagenham,England,,51.57,0.14,,"{""twentyfourseven"": true}",,"{""is_green_energy"": false}",30:01.0,44:00.0,,Restaurant/Pub/Cafe,En-route
+GB,ID_1703F91C,OCPI,ID_3060AECD,ID_4CA22592,Barking and Dagenham,England,,51.56,0.15,,,,,05:01.0,56:18.0,,Supermarket,Destination
+GB,ID_1703F91C,OCPI,ID_622F9A9E,ID_4CA22592,Barking and Dagenham,England,,51.56,0.15,,,,,05:01.0,20:00.0,,Supermarket,Destination
+GB,ID_0AA2735A,OCPI,ID_C6349E4C,ID_557892CC,Barking and Dagenham,England,,51.55,0.11,,"{""twentyfourseven"": true}",True,,41:17.0,30:00.0,,Supermarket,Destination
+GB,ID_0AA2735A,OCPI,ID_955B8BC1,ID_0358D152,Barking and Dagenham,England,,51.55,0.15,,"{""twentyfourseven"": true}",True,,41:17.0,42:33.0,,Supermarket,Destination
+GB,ID_0AA2735A,OCPI,ID_D6AB2233,ID_8800F95D,Barking and Dagenham,England,,51.56,0.14,,"{""twentyfourseven"": true}",True,,41:17.0,43:31.0,,Supermarket,Destination
+GB,ID_93A6F0E8,OCPI,ID_432197CC,ID_13F320E7,Barking and Dagenham,England,[],51.56,0.15,,"{""twentyfourseven"": true}",True,"{""is_green_energy"": false}",05:01.0,15:49.0,,Supermarket,Destination
+GB,ID_93A6F0E8,OCPI,ID_024A23F2,ID_DA4FB5C6,Barking and Dagenham,England,[],51.54,0.16,,"{""twentyfourseven"": true}",True,"{""is_green_energy"": false}",30:01.0,15:03.0,,Fuel Forecourt,En-route
+GB,ID_B8A17E84,OCPI,ID_C5DB102B,ID_8E2C50FF,Barking and Dagenham,England,,51.53,0.13,,"{""twentyfourseven"": true}",,,05:01.0,34:27.0,,Leisure,Destination
+GB,ID_7C9D2C64,OCPI,ID_559831DB,ID_1813F18A,Barking and Dagenham,England,,51.54,0.09,,,,,05:01.0,11:46.0,,On-Street,On-street
+GB,ID_7C9D2C64,OCPI,ID_83BCDAF0,ID_2FFFFF34,Barking and Dagenham,England,,51.53,0.08,,,,,30:02.0,09:03.0,,Workplace Car Park,Other
+GB,ID_7C9D2C64,OCPI,ID_B258D053,ID_A13D52A2,Barking and Dagenham,England,,51.53,0.08,,,,,30:02.0,10:21.0,,On-Street,On-street
+GB,ID_7C9D2C64,OCPI,ID_D6059EE7,ID_2FFFFF34,Barking and Dagenham,England,,51.53,0.08,,,,,05:01.0,01:48.0,,Workplace Car Park,Other
+GB,ID_BB0B9165,OCPI,ID_99FA31D8,ID_4E50FF41,Barking and Dagenham,England,[],51.53,0.11,,"{""regular_hours"": [], ""twentyfourseven"": true, ""exceptional_closings"": [], ""exceptional_openings"": []}",True,,30:01.0,46:54.0,,Fuel Forecourt,En-route
+GB,ID_BB0B9165,OCPI,ID_6CB8A470,ID_063ACAA0,Barking and Dagenham,England,[],51.53,0.07,,"{""regular_hours"": [], ""twentyfourseven"": true, ""exceptional_closings"": [], ""exceptional_openings"": []}",True,,30:01.0,36:29.0,,Fuel Forecourt,En-route
+GB,ID_BB0B9165,OCPI,ID_56ABD185,ID_6649F71B,Barking and Dagenham,England,[],51.56,0.15,,"{""regular_hours"": [], ""twentyfourseven"": true, ""exceptional_closings"": [], ""exceptional_openings"": []}",True,,30:01.0,23:06.0,,Fuel Forecourt,En-route
+GB,ID_A3D2DE76,Custom,ID_2171434E,ID_F1E3E8C0,Barnet,England,,51.6,-0.19,,,,,05:01.0,53:01.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_11EC996E,ID_11EC996E,Barnet,England,,51.6,-0.25,,,,,30:02.0,38:00.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_CC616C5B,ID_1BBE84EE,Barnet,England,,51.65,-0.2,,,,,30:01.0,29:04.0,,Car Park,Destination
+GB,ID_A3D2DE76,Custom,ID_9AF04705,ID_FEDB31A0,Barnet,England,,51.63,-0.14,,,,,05:01.0,14:46.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_3B80F388,ID_3B80F388,Barnet,England,,51.61,-0.21,,,,,41:17.0,31:00.0,,Travel Interchange,Destination
+GB,ID_A3D2DE76,Custom,ID_E1F180E0,ID_02BAFF21,Barnet,England,,51.62,-0.25,,,,,05:01.0,03:20.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_2657C660,ID_64C7CBAF,Barnet,England,,51.59,-0.2,,,,,05:01.0,36:30.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_6B59B4A1,ID_19AA3551,Barnet,England,,51.58,-0.23,,,,,41:17.0,48:00.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_80A333B7,ID_E53E925A,Barnet,England,,51.61,-0.28,,,,,05:01.0,06:34.0,,Car Park,Destination
+GB,ID_A3D2DE76,Custom,ID_201D821C,ID_211AA4FD,Barnet,England,,51.61,-0.25,,,,,05:01.0,07:41.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_B7B06ED6,ID_05C2F09C,Barnet,England,,51.64,-0.19,,,,,05:01.0,03:23.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_E9DE6ECA,ID_E9DE6ECA,Barnet,England,,51.65,-0.2,,,,,30:02.0,44:00.0,,Car Park,Destination
+GB,ID_A3D2DE76,Custom,ID_3BB4EE41,ID_3BB4EE41,Barnet,England,,51.62,-0.17,,,,,05:01.0,47:06.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_EA1D6D30,ID_69D06407,Barnet,England,,51.64,-0.17,,,,,05:01.0,22:08.0,,Supermarket,Destination
+GB,ID_A3D2DE76,Custom,ID_49DD823D,ID_49DD823D,Barnet,England,,51.65,-0.2,,,,,30:02.0,04:00.0,,Car Park,Destination
+GB,ID_A3D2DE76,Custom,ID_78DCC04E,ID_78DCC04E,Barnet,England,,51.61,-0.27,,,,,30:02.0,44:00.0,,Car Park,Destination
+GB,ID_A3D2DE76,Custom,ID_4080ABEF,ID_69D15370,Barnet,England,,51.59,-0.2,,,,,05:01.0,01:19.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_06893C21,ID_2DDC96FD,Barnet,England,,51.63,-0.16,,,,,05:01.0,06:28.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_7BACF5C9,ID_0F8A5FEE,Barnet,England,,51.61,-0.18,,,,,05:01.0,21:44.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_A7D359EC,ID_0A20D78A,Barnet,England,,51.62,-0.28,,,,,05:01.0,19:27.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_6A71FE14,ID_5AB623CD,Barnet,England,,51.59,-0.25,,,,,05:01.0,52:57.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_FBBE2A2B,ID_FBBE2A2B,Barnet,England,,51.61,-0.17,,,,,05:01.0,57:40.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_5AD48AB1,ID_15A0F2D4,Barnet,England,,51.57,-0.21,,,,,05:01.0,57:51.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_E8CC1B90,ID_110C29A5,Barnet,England,,51.63,-0.18,,,,,05:01.0,47:03.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_C76ACF42,ID_F2047120,Barnet,England,,51.6,-0.2,,,,,05:01.0,44:18.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_6BD8E519,ID_D518B019,Barnet,England,,51.59,-0.22,,,,,05:01.0,31:31.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_474AE8A3,ID_1C7704A9,Barnet,England,,51.58,-0.23,,,,,05:01.0,17:29.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_8C6D9A73,ID_31319AEB,Barnet,England,,51.65,-0.19,,,,,05:01.0,58:55.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_BB334FEA,ID_66898FAF,Barnet,England,,51.59,-0.22,,,,,05:01.0,43:12.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_59120727,ID_29C3F8D6,Barnet,England,,51.56,-0.2,,,,,05:01.0,36:38.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_A0016EBE,ID_8B5EC525,Barnet,England,,51.61,-0.25,,,,,05:01.0,08:51.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_20D48DCC,ID_BF6B04FD,Barnet,England,,51.57,-0.2,,,,,05:01.0,27:51.0,,Accommodation,Destination
+GB,ID_A3D2DE76,Custom,ID_2E9CC25D,ID_5E6BADAB,Barnet,England,,51.6,-0.24,,,,,30:01.0,50:24.0,,Dealership,Other
+GB,ID_A3D2DE76,Custom,ID_385ED15A,ID_3CB7F11C,Barnet,England,,51.62,-0.25,,,,,05:01.0,21:01.0,,On-Street,On-street
+GB,ID_A3D2DE76,Custom,ID_E04A37D5,ID_83BC6095,Barnet,England,,51.61,-0.28,,,,,05:01.0,16:03.0,,On-Street,On-street
