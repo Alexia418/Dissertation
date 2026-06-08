@@ -6,7 +6,7 @@
 *.shx
 *.prj
 
-data/restricted/
+03_data/restricted/
 *.pbf
 .DS_Store
 
