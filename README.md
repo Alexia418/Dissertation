@@ -48,32 +48,33 @@ Dissertation/
 │   ├── policy/                      # Policy reference documents
 │   │   └── HoC_EV_policy_briefing_2025.pdf
 │   │
-│   ├── restricted/                  # ⛔ NOT on GitHub (.gitignored)
-│   │   ├── gla/                     # Supervisor-provided CSVs
-│   │   │   ├── device_all_uk.csv
-│   │   │   ├── evse_status_gla.csv
-│   │   │   ├── gla_location_evse_join.csv
-│   │   │   └── OpenStreetEV_GLA.csv
-│   │   └── examples/                # ✅ Anonymised 100-row samples (on GitHub)
-│   │       ├── device_all_uk_sample.csv
-│   │       ├── evse_status_gla_sample.csv
-│   │       ├── gla_location_evse_join_sample.csv
-│   │       └── OpenStreetEV_GLA_sample.csv
-│   │
-│   └── processed/                   # Outputs from data processing notebooks
+│   └── restricted/                  # ⛔ NOT on GitHub (.gitignored)
+│       ├── gla/                     # Supervisor-provided CSVs
+│       │   ├── device_all_uk.csv
+│       │   ├── evse_status_gla.csv
+│       │   ├── gla_location_evse_join.csv
+│       │   └── OpenStreetEV_GLA.csv
+│       └── examples/                # ✅ Anonymised 100-row samples (on GitHub)
+│           ├── device_all_uk_sample.csv
+│           ├── evse_status_gla_sample.csv
+│           ├── gla_location_evse_join_sample.csv
+│           └── OpenStreetEV_GLA_sample.csv
+│
 │
 ├── 04_code/
-│   ├── 01_data_processing/          # Data cleaning & preparation
-│   ├── 02_demand_estimation/        # Demand proxy construction
-│   ├── 03_location_allocation/      # PuLP model implementation
-│   └── 04_evaluation/               # Equity & scenario analysis
+│   ├── NOTEBOOKS.md                 # Index of all notebooks
+│   ├── 00_create_samples.ipynb
+│   ├── 01_data_loading.ipynb
+│   └── 02_data_cleaning.ipynb       # (and future notebooks)
 │
-├── 05_outputs/
+├── 05_processed/                    # Cleaned data outputs from 02_data_cleaning.ipynb
+│ 
+├── 06_outputs/
 │   ├── figures/                     # Maps and charts
 │   ├── model_results/               # Optimisation outputs
 │   └── tables/                      # Summary statistics
 │
-├── 06_writing/
+├── 07_writing/
 │   ├── dissertation_draft.docx      # Main dissertation document
 │   └── presentations/               # Supervision slides
 │
@@ -166,25 +167,5 @@ CASA LREC application submitted and approved.
 Reference: **CASA LREC-2026-4063** | Low-risk secondary data analysis.
 
 ---
-
-## How to Reproduce
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Alexia418/Dissertation.git
-cd Dissertation
-
-# 2. Install dependencies
-pip install pandas geopandas pulp numpy matplotlib seaborn
-
-# 3. Run data processing
-jupyter notebook 04_code/01_data_processing/
-
-# 4. Run demand estimation
-jupyter notebook 04_code/02_demand_estimation/
-
-# 5. Run location-allocation model
-jupyter notebook 04_code/03_location_allocation/
-```
 
 > Restricted data files must be obtained separately from supervisors and placed in `03_data/restricted/gla/`.
