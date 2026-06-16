@@ -175,6 +175,21 @@ $$\sum_i x_{ij} \le N \quad \forall j$$
 
 **What this means:** the p-median framework's built-in assumption that *all* demand must be served sits awkwardly alongside coverage-style constraints like a service radius — radius constraints inherently require facility count to scale with the area needing coverage. This is exactly why Set Covering and Maximal Covering exist as separate model types: their objectives are built around coverage from the start (Set Covering minimises the number of sites needed to cover everyone; Maximal Covering maximises coverage given a fixed site budget), so they handle "too few sites to cover everyone" gracefully instead of becoming infeasible. p=5 was an arbitrary toy-scale choice; this infeasible result shows that for the radius constraint to be usable here, p would need to be substantially larger (synthetic tests on uniformly random data suggest somewhere around 20–30 sites before feasibility kicks in — Camden's actual geometry will differ in the exact number, but not the order of magnitude), or the radius restriction would need to become a soft constraint (e.g. a distance-overage penalty in the objective rather than a hard cutoff). This trade-off is worth raising with your supervisor, and is also a legitimate methodological-limitations point for the dissertation.
 
+
+radius约束如果真要跑通，不是把p-median死磕通，是换对模型
+p-median这个框架的硬伤是"必须服务所有需求点"这条不能松，跟"800m半径"这种覆盖型约束放一起，天然要求站数量跟覆盖面积匹配（p=5不够大）。但你后面本来就要做另外两种模型，它们各自正好对应"radius"这个想法的两种不同处理方式：
+
+Maximal Covering（固定站数，不强求100%覆盖）：如果"p=5个站，预算就这么多"是硬约束，"800m内尽量多覆盖"是软目标，那就是这个模型——目标函数直接改成maximize覆盖到的demand总量，覆盖不到的LSOA允许存在，不会infeasible。
+Set Covering（固定半径，站数不固定）：如果"每个LSOA都要在800m内有站"才是你真正想要的硬约束，那应该让p变成决策变量去求解，而不是先定p=5——目标函数是minimize站数，约束是每个需求点必须有≥1个开放站在800m内。这样求出来的可能是15个站、20个站，但这个数字本身就是"Camden在800m标准下到底需要多少个充电站"这个问题的答案，是有意义的结果，不是凑出来的。
+
+下次写代码的时候，不用回头改这个toy_model_camden notebook，直接开始写Set Covering或Maximal Covering的notebook，把"800m + Camden真实数据"这个组合放到对的框架里重新跑一次——这样radius这个想法能真正有意义地跑起来，同时也把你dissertation本来就排了的第二、三个模型往前推进了，不是浪费今天这些工作。
+而且今天这整个过程（p-median配radius不兼容 → 需要换模型）本身就是很好的方法论叙事，可以直接写进dissertation里当作"为什么需要三种模型类型"的实证依据，比凭空说"我们用三种模型互相验证"更有说服力。
+
+
+
+
+
+
 ---
 
 ## 11. 背景参考（非正式）/ Background References (informal)
