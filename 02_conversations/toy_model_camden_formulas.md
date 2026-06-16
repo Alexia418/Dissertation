@@ -186,7 +186,10 @@ Set Covering（固定半径，站数不固定）：如果"每个LSOA都要在800
 而且今天这整个过程（p-median配radius不兼容 → 需要换模型）本身就是很好的方法论叙事，可以直接写进dissertation里当作"为什么需要三种模型类型"的实证依据，比凭空说"我们用三种模型互相验证"更有说服力。
 
 
-
+Census-based LSOAs. Thus, the LSOA in Camden are:
+2001 Census-based LSOAs = 133 in Camden
+2011 Census-based LSOAs = 133 in Camden (unchanged from 2001)
+2021 Census-based LSOAs = 130 in Camden
 
 
 
