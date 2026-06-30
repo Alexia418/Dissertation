@@ -4,5 +4,5 @@ On-street EVSE locations (OpenStreetEV_GLA),21366
 "Session records (join_august2025, post-clean)",215037
 Unique EVSEs with ≥1 session,10465
 EVSEs matched to LSOA via spatial join,10465
-"Candidate sites generated (Camden, pre-buffer)",Pending — Notebook 4 (Camden toy model)
-Candidate sites after 50m exclusion buffer,Pending — Notebook 4 (Camden toy model)
+"Candidate sites generated (Camden, pre-buffer)",7913
+Candidate sites after 50m exclusion buffer,5959
