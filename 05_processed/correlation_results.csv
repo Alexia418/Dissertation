@@ -1,0 +1,4 @@
+Relationship,Pearson r,p-value,n
+"Income score vs EVSE per 1,000 residents",-0.0938,0.0,4994
+"Income score vs residual capacity (Sᵢᵉᶠᶠ) per 1,000 residents",-0.0777,0.0,4994
+Income score vs mean utilisation rate (urⱼ),-0.0237,0.2325,2548
