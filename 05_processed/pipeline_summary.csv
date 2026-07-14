@@ -1,9 +1,11 @@
 Item,Count
 LSOAs loaded (Greater London),4994
 "Household total (Hi sum, validated vs gor:London)",3423845
+"Total EVSE locations (OpenStreetEV_GLA, all categories)",23015
 On-street EVSE locations (OpenStreetEV_GLA),21366
 "Session records (join_august2025, post-clean)",63105
-Unique EVSEs with ≥1 session (ur_j computed),10465
-EVSEs matched to LSOA via spatial join,38375
-eⱼ / Sᵢᵉᶠᶠ / Uᵢ / has_evse_i (LSOA-level),Done — 3493 LSOAs with has_evse_i=True
-Demand Di computed (4 scenarios A-D),"Done — 4994 LSOAs, total demand = 360,535.1"
+Unique EVSEs with >=1 session (ur_j computed),10465
+eⱼ / Sᵢᵉᶠᶠ / Uᵢ / has_evse_i (LSOA-level),Done (on-street only) — 3157 LSOAs with has_evse_i=True
+EVSEs matched to LSOA via spatial join,28344
+Demand Di computed (4 scenarios A-D),"Done — 4994 LSOAs, total demand = 359,614.1"
+P-median allocation (12 core configs),"Done — 12 configs, K0=12.5766"

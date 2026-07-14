@@ -1,4 +1,4 @@
 Uj,status,objective,runtime_sec,n_lsoa_with_xj_gt_0
-5,Infeasible,,2.9,
-10,Infeasible,,2.8,
-20,Infeasible,,3.0,
+20,Infeasible,,4.3,
+50,Infeasible,,3.6,
+100,Infeasible,,4.1,
