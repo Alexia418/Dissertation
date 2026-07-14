@@ -1,0 +1,4 @@
+K_label,K_value,status,objective,runtime_sec,n_lsoa_with_xj_gt_0
+K0,9.334241817972455,Infeasible,,2.8,
+0.5*K0,4.667120908986227,Infeasible,,2.6,
+2*K0,18.66848363594491,Infeasible,,2.7,
