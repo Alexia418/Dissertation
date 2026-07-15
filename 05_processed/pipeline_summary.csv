@@ -5,7 +5,7 @@ LSOAs loaded (Greater London),4994
 On-street EVSE locations (OpenStreetEV_GLA),21366
 "Session records (join_august2025, post-clean)",63105
 Unique EVSEs with >=1 session (ur_j computed),10465
-eⱼ / Sᵢᵉᶠᶠ / Uᵢ / has_evse_i (LSOA-level),Done (on-street only) — 3157 LSOAs with has_evse_i=True
-EVSEs matched to LSOA via spatial join,28344
-Demand Di computed (4 scenarios A-D),"Done — 4994 LSOAs, total demand = 359,614.1"
-P-median allocation (12 core configs),"Done — 12 configs, K0=12.5766"
+eⱼ / Sᵢᵉᶠᶠ / Uᵢ / has_evse_i (LSOA-level),"Done (location-level, no gla_evse_join.csv) — 3157 LSOAs with has_evse_i=True"
+On-street locations matched to LSOA via spatial join,21366
+Demand Di computed (4 scenarios A-D),"Done — 4994 LSOAs, total demand = 361,139.1"
+P-median allocation (12 core configs),"Done — 12 configs, K0=16.7070"

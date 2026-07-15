@@ -1,0 +1,7 @@
+k_neighbors,n_arcs,status,slack_frac,solve_seconds
+20,99880,Optimal,0.431,4
+50,249700,Optimal,0.385,9
+100,499400,Optimal,0.326,22
+200,998800,Optimal,0.233,71
+500,2497000,Optimal,0.04,114
+1000,4994000,Optimal,0.0,342
