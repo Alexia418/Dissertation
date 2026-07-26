@@ -1,11 +1,12 @@
 Item,Count
 LSOAs loaded (Greater London),4994
 "Household total (Hi sum, validated vs gor:London)",3423845
-"Total EVSE locations (OpenStreetEV_GLA, all categories)",23015
-On-street EVSE locations (OpenStreetEV_GLA),21366
-"Session records (join_august2025, post-clean)",63105
-Unique EVSEs with >=1 session (ur_j computed),10465
-eⱼ / Sᵢᵉᶠᶠ / Uᵢ / has_evse_i (LSOA-level),"Done (location-level, no gla_evse_join.csv) — 3157 LSOAs with has_evse_i=True"
+"Total EVSE locations (evse_location.csv, all categories)",23013
+On-street EVSE locations (evse_location.csv),21367
+"Session records (charging_activity_sep, post-clean)",524076
+Unique EVSEs with >=1 session (ur_j computed),18748
+eⱼ / Sᵢᵉᶠᶠ / Uᵢ / has_evse_i (LSOA-level),Done (location-level) — 3157 LSOAs with has_evse_i=True
 On-street locations matched to LSOA via spatial join,21366
-Demand Di computed (4 scenarios A-D),"Done — 4994 LSOAs, total demand = 361,139.1"
-P-median allocation (12 core configs),"Done — 12 configs, K0=16.7070"
+Demand Di computed (4 scenarios A-D),"Done — 4994 LSOAs, total demand = 347,469.8"
+"P-median allocation (joint MILP, Round 1 calibration)","Done — 12 configs, K0=11.0779, P_VALUES=[5000, 10000, 17500], max slack=34.38%"
+"P-median allocation (joint MILP, Round 2 calibration)","Done — 12 configs, K0=16.0747, P_VALUES=[2000, 5000, 8000], max slack=37.80%"
