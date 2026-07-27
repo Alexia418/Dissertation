@@ -10,3 +10,4 @@ On-street locations matched to LSOA via spatial join,21366
 Demand Di computed (4 scenarios A-D),"Done — 4994 LSOAs, total demand = 347,469.8"
 "P-median allocation (joint MILP, Round 1 calibration)","Done — 12 configs, K0=11.0779, P_VALUES=[5000, 10000, 17500], max slack=34.38%"
 "P-median allocation (joint MILP, Round 2 calibration)","Done — 12 configs, K0=16.0747, P_VALUES=[2000, 5000, 8000], max slack=37.80%"
+"P-median allocation (joint MILP, final)","Done — 12 configs, K0=16.0747, P_VALUES=[2000, 5000, 8000], max slack=37.80%"
