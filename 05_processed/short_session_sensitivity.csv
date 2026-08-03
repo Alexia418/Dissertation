@@ -1,0 +1,7 @@
+metric,value
+Retained sessions shorter than one minute,58490.0
+EVSE-level utilisation correlation,0.9999990081430252
+EVSE-level mean absolute difference,1.1988249833329872e-05
+EVSE-level maximum absolute difference,0.002966820959876576
+On-street LSOA U_i correlation,0.9999989484051938
+On-street LSOA U_i mean absolute difference,9.2620898958997e-06

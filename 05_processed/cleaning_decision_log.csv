@@ -1,0 +1,8 @@
+issue,evidence,decision
+Location-side and EVSE-side location IDs disagree,14 connector-grain rows involving 10 EVSEs,Use the EVSE-side location foreign key as the canonical session-to-location mapping
+Superseded Location-side identifiers,5 Location-side IDs are not used by any canonical EVSE mapping,Retain in audit files but exclude from the physical location count
+Exact duplicate charging sessions,338 exact duplicates,Remove exact duplicate records
+Sessions shorter than one minute,On-street LSOA U_i correlation after exclusion = 0.9999989,Retain; sensitivity analysis shows negligible influence
+Registered EVSEs without September sessions,"19,610 zero-session EVSEs",Retain and assign ur_j = 0
+Non-null deleted_at_y,"2,792 flagged EVSEs remain active; 91.9% of their sessions begin after the recorded timestamp",Do not use as an EVSE exclusion criterion; retain as an audit field
+Maximum e_i,63 location IDs across 62 coordinate pairs in E01004232,Retain as genuine dense on-street provision

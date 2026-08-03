@@ -1,0 +1,8 @@
+metric,value
+EVSEs with any non-null deleted_at_y,11503.0
+Flagged EVSEs with September sessions,2792.0
+Sessions recorded by flagged active EVSEs,90659.0
+Sessions beginning after latest deleted_at_y,83315.0
+Share of flagged sessions after latest deleted_at_y,0.9189931501560794
+Share of zero-session EVSEs flagged,0.44421213666496684
+Share of active EVSEs flagged,0.14892255173885213
