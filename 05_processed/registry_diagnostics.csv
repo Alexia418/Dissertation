@@ -1,0 +1,11 @@
+check,count
+connector-grain rows,51386
+unique Location-side IDs,23013
+unique EVSEs,38358
+id_x vs location_id_x mismatched rows,0
+id_x vs EVSE-side location_id_y mismatched rows,14
+EVSEs appearing under multiple id_x locations,10
+EVSEs with multiple direct location_id_y values,0
+evse_id vs evse_uid mismatches,0
+locations with invalid coordinates,0
+connector rows with non-null deleted_at_y,15652

@@ -1,0 +1,8 @@
+item,count
+raw session rows,524454
+exact duplicate rows removed,338
+invalid rows removed,0
+clean rows retained,524116
+retained sessions shorter than 1 minute,58490
+retained sessions longer than 24 hours,0
+unique active EVSEs,18748

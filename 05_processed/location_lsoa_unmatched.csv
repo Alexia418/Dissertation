@@ -1,0 +1,1 @@
+location_id,latitude,longitude,address,city,postal_code,borough,location_category,source,operator_name,location_attribute_source,n_devices,n_evse,n_connectors,max_device_power,any_deleted_at_y,n_evse_from_utilisation,n_active_evse,ubar_loc,seff_evse_raw,occupied_minutes_total,has_session,seff_loc,lsoa_code,match_method,nearest_distance_m

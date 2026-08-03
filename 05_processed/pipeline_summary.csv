@@ -1,13 +1,10 @@
-Item,Count
-LSOAs loaded (Greater London),4994
-"Household total (Hi sum, validated vs gor:London)",3423845
-"Total EVSE locations (evse_location.csv, all categories)",23013
-On-street EVSE locations (evse_location.csv),21367
-"Session records (charging_activity_sep, post-clean)",524076
-Unique EVSEs with >=1 session (ur_j computed),18748
-eⱼ / Sᵢᵉᶠᶠ / Uᵢ / has_evse_i (LSOA-level),Done (location-level) — 3157 LSOAs with has_evse_i=True
-On-street locations matched to LSOA via spatial join,21366
-Demand Di computed (4 scenarios A-D),"Done — 4994 LSOAs, total demand = 347,469.8"
-"P-median allocation (joint MILP, Round 1 calibration)","Done — 12 configs, K0=11.0779, P_VALUES=[5000, 10000, 17500], max slack=34.38%"
-"P-median allocation (joint MILP, Round 2 calibration)","Done — 12 configs, K0=16.0747, P_VALUES=[2000, 5000, 8000], max slack=37.80%"
-"P-median allocation (joint MILP, final)","Done — 12 configs, K0=16.0747, P_VALUES=[2000, 5000, 8000], max slack=37.80%"
+output,rows,observation_unit
+census_london_clean.csv,4994,LSOA
+imd_london_clean.csv,4994,LSOA
+evse_registry_clean.csv,38358,EVSE
+osev_london_clean.csv,23008,charging location
+zapmap_clean.csv,524116,charging session
+evse_utilisation_all.csv,38358,EVSE
+location_utilisation_clean.csv,23008,charging location
+location_lsoa_clean.csv,23008,charging location
+lsoa_supply_clean.csv,4994,LSOA
