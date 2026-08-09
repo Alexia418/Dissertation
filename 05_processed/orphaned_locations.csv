@@ -1,6 +1,0 @@
-location_id,latitude,longitude,address,city,postal_code,borough,location_category,source,operator_name,location_attribute_source
-AS72JSH,51.455903,-0.310271,Richmond Road 383,Twickenham,TW1 2EF,Richmond upon Thames,destination,OCPI,Lidl Great Britain Limited,fallback_all_rows
-BAJMSSV,51.494778,-0.130215,33 Horseferry Road,Victoria Station,SW1P 2,Westminster,on-street,OCPI,TotalEnergies,fallback_all_rows
-DGJVIPV,51.582849,0.16728,Eastern Avenue West,Romford,RM7 7JJ,Havering,destination,OCPI,,fallback_all_rows
-JLN6DKW,51.498219,-0.228258,6 AMOR ROAD,Hammersmith & Fulham,W6 0AN,Hammersmith and Fulham,on-street,Custom,,fallback_all_rows
-LNSJ7YT,51.498219,-0.228258,Amor Road,Wimbledon,SW19 3PY,Hammersmith and Fulham,on-street,Custom,,fallback_all_rows

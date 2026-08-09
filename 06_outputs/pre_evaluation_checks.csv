@@ -1,6 +1,0 @@
-check,passed
-baseline_mean_distance_gt_zero,False
-own_assignment_not_dominant,False
-x_changes_with_alpha,False
-distance_surface_changes_with_alpha,False
-M1_denominator_nonzero,False
