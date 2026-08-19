@@ -26,8 +26,5 @@ Dissertation project (UCL CASA) examining how to balance spatial efficiency and 
 
 ## Data availability
 
-Some of the raw data used in this project — in particular supervisor-provided and other restricted-access datasets — is **not included** in this repository due to data sharing restrictions. Only processed/derived outputs that can be shared are kept under `05_processed/`. To reproduce the full pipeline from raw inputs, these restricted datasets would need to be obtained separately.
+Some of the raw data used in this project  is **not included** in this repository due to data sharing restrictions. Only processed/derived outputs that can be shared are kept under `05_processed/`. To reproduce the full pipeline from raw inputs, these restricted datasets would need to be obtained separately.
 
-## Status
-
-This repository accompanies an MSc dissertation and is not maintained as a general-purpose package.
