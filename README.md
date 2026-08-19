@@ -1,10 +1,6 @@
-# EV Charging Infrastructure Spatial Planning — Greater London
+# Overview
 
-MSc Urban Spatial Science dissertation project (UCL CASA) examining how to balance spatial efficiency and deprivation-based equity when allocating additional public EV charging infrastructure across Greater London.
-
-## Overview
-
-The project models existing EV charging provision and utilisation, estimates demand at LSOA level, evaluates the spatial mismatch between supply and demand in relation to deprivation, and uses a p-median facility location model to optimise the allocation of new charging capacity under different equity-weighting (α) and budget (p) scenarios. Results are compared across scenarios to examine the trade-off between overall efficiency and equity across deprivation deciles.
+Dissertation project (UCL CASA) examining how to balance spatial efficiency and deprivation-based equity when allocating additional public EV charging infrastructure across Greater London.The project models existing EV charging provision and utilisation, constructs demand at LSOA level, evaluates the spatial mismatch between supply and demand in relation to deprivation, and uses a p-median facility location model to optimise the allocation of new charging capacity under different equity-weighting (α) and budget (p) scenarios. Results are compared across scenarios to examine the trade-off between overall efficiency and equity across deprivation deciles.
 
 ## Repository structure
 
@@ -14,7 +10,7 @@ The project models existing EV charging provision and utilisation, estimates dem
   01_data_loading_revised.ipynb   – data loading
   02_data_cleaning_revised.ipynb  – data cleaning
   03_EDA_revised_new.ipynb        – exploratory data analysis
-  04_demand_estimation_revised.ipynb – LSOA-level demand estimation
+  04_demand_estimation_revised.ipynb – LSOA-level demand constructed
   05_p_median_1.ipynb             – p-median MILP optimisation model
   06_mismatch_revised.ipynb       – supply-demand mismatch & equity analysis
   07_study_area.ipynb             – study area map
